@@ -1,0 +1,1 @@
+INSERT INTO products VALUES(null,'桌子',1,'blue','超大号','./img/logo.jpg','白色桌子随身携带','这是一个款白色的桌子',20.00,'上海市嘉定区',20,'耐克','这个桌子的质量非常好','./img/detail.mp4',now(),'支付宝');
